@@ -17,5 +17,6 @@ public class Driver {
 		productIds[4] = 12;
 
 		System.out.println(productIds[0]);
+		System.out.println("hello world");
 	}
 }
