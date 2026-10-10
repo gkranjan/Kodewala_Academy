@@ -1,0 +1,13 @@
+/.metadata/
+# Ignore compiled Java class files
+bin/
+
+# Ignore Eclipse settings
+.settings/
+
+# Ignore Eclipse project configuration
+.classpath
+.project
+
+# Ignore all class files
+*.class
